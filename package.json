@@ -9,6 +9,10 @@
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.53.1",
+    "@reportportal/agent-js-playwright": "^5.2.3",
     "@types/node": "^24.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
   }
 }
